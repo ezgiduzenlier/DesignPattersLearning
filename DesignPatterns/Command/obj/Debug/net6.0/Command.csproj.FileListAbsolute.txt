@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/Command.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/Command.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/Command.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/Command.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/bin/Debug/net6.0/Command
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/bin/Debug/net6.0/Command.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/bin/Debug/net6.0/Command.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/bin/Debug/net6.0/Command.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/bin/Debug/net6.0/Command.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/Command.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/refint/Command.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/Command.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/Command.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Command/obj/Debug/net6.0/ref/Command.dll

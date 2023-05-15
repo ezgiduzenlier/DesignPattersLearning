@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/bin/Debug/net6.0/Observer
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/bin/Debug/net6.0/Observer.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/bin/Debug/net6.0/Observer.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/bin/Debug/net6.0/Observer.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/bin/Debug/net6.0/Observer.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/Observer.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/Observer.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/Observer.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/Observer.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/Observer.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/refint/Observer.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/Observer.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/Observer.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Observer/obj/Debug/net6.0/ref/Observer.dll

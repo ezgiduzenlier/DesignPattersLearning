@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/bin/Debug/net6.0/Builder
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/bin/Debug/net6.0/Builder.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/bin/Debug/net6.0/Builder.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/bin/Debug/net6.0/Builder.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/bin/Debug/net6.0/Builder.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/Builder.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/Builder.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/Builder.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/Builder.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/Builder.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/refint/Builder.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/Builder.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/Builder.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Builder/obj/Debug/net6.0/ref/Builder.dll

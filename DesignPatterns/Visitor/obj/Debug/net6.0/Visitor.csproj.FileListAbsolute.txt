@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/bin/Debug/net6.0/Visitor
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/bin/Debug/net6.0/Visitor.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/bin/Debug/net6.0/Visitor.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/bin/Debug/net6.0/Visitor.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/bin/Debug/net6.0/Visitor.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/Visitor.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/Visitor.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/Visitor.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/Visitor.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/Visitor.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/refint/Visitor.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/Visitor.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/Visitor.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Visitor/obj/Debug/net6.0/ref/Visitor.dll

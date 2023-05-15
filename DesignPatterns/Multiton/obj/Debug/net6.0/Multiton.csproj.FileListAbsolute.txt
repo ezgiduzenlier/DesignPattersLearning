@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/bin/Debug/net6.0/Multiton
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/bin/Debug/net6.0/Multiton.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/bin/Debug/net6.0/Multiton.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/bin/Debug/net6.0/Multiton.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/bin/Debug/net6.0/Multiton.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/Multiton.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/Multiton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/Multiton.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/Multiton.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/Multiton.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/Multiton.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/refint/Multiton.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/Multiton.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/Multiton.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Multiton/obj/Debug/net6.0/ref/Multiton.dll

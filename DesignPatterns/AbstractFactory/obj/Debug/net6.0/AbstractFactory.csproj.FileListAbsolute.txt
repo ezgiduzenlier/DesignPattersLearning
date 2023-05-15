@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/bin/Debug/net6.0/AbstractFactory
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/bin/Debug/net6.0/AbstractFactory.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/bin/Debug/net6.0/AbstractFactory.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/bin/Debug/net6.0/AbstractFactory.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/bin/Debug/net6.0/AbstractFactory.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/AbstractFactory.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/AbstractFactory.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/AbstractFactory.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/refint/AbstractFactory.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/AbstractFactory.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/AbstractFactory.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/AbstractFactory/obj/Debug/net6.0/ref/AbstractFactory.dll

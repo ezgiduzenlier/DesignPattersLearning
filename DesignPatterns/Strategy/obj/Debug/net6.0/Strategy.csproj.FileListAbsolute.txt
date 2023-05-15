@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/bin/Debug/net6.0/Strategy
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/bin/Debug/net6.0/Strategy.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/bin/Debug/net6.0/Strategy.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/bin/Debug/net6.0/Strategy.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/bin/Debug/net6.0/Strategy.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/Strategy.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/Strategy.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/refint/Strategy.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/Strategy.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/Strategy.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Strategy/obj/Debug/net6.0/ref/Strategy.dll

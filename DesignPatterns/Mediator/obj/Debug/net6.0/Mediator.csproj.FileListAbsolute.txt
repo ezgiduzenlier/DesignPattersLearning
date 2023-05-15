@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/bin/Debug/net6.0/Mediator
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/bin/Debug/net6.0/Mediator.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/bin/Debug/net6.0/Mediator.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/bin/Debug/net6.0/Mediator.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/bin/Debug/net6.0/Mediator.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/Mediator.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/Mediator.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/Mediator.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/Mediator.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/refint/Mediator.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/Mediator.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/Mediator.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Mediator/obj/Debug/net6.0/ref/Mediator.dll

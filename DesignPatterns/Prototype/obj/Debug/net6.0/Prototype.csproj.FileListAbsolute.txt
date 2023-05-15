@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/bin/Debug/net6.0/Prototype
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/bin/Debug/net6.0/Prototype.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/bin/Debug/net6.0/Prototype.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/bin/Debug/net6.0/Prototype.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/bin/Debug/net6.0/Prototype.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/Prototype.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/Prototype.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/Prototype.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/refint/Prototype.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/Prototype.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/Prototype.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/Prototype/obj/Debug/net6.0/ref/Prototype.dll

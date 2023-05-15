@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/bin/Debug/net6.0/DependencyInjection.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/refint/DependencyInjection.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/DependencyInjection.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/DependencyInjection/obj/Debug/net6.0/ref/DependencyInjection.dll

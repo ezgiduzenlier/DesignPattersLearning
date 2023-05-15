@@ -1,0 +1,15 @@
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod.deps.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod.runtimeconfig.json
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.csproj.AssemblyReference.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.AssemblyInfoInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.AssemblyInfo.cs
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.csproj.CoreCompileInputs.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/refint/TemplateMethod.dll
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.pdb
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.genruntimeconfig.cache
+/Users/ezgiduzenlier/Projects/DesignPatterns/TemplateMethod/obj/Debug/net6.0/ref/TemplateMethod.dll
